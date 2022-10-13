@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="title">Kotlin quiz</string>
+    <string name="question1">What is a correct syntax to output \"Hello World\" in Kotlin?</string>
+    <string name="q1c1">println(\'Hello World\')</string>
+    <string name="qic2">Console.WriteLine(\'Hello World\')</string>
+    <string name="q1c3"><![CDATA[cout<<\'Hello World\']]></string>
+    <string name="q1c4">System.out.println(\'Hello World\')</string>
+    <string name="q2">How can you create a variable with the numeric value 5?</string>
+    <string name="q2c1">var num = 5</string>
+    <string name="q2c2">val num = 5</string>
+    <string name="reset">Reset</string>
+    <string name="submit">submit</string>
+    <string name="q2c3">var num: Int = 5</string>
+</resources>
